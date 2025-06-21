@@ -1,15 +1,16 @@
 # Hi, I’m Aaditya Gaur 👋
 
 🎓 Sophomore at Purdue University, studying Computer Engineering
-🔭 Currently learning: STM32, Embedded systems, quantum mechanics, and React  
+🔭 Currently learning: STM32, Embedded systems and quantum mechanicz  
 🌱 I’m working on: Building cool side projects and leveling up my GitHub  
-💡 Interests: F1, AI, open source, and adventure sports  
+💡 Interests: Weightlifting, F1, cricket
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aadityagaur) | gaur14@purdue.edu
 
 ---
 
 ### 🛠️ Languages & Tools
 - Python, C, MATLAB
-- React, Pandas, Git
+- System Verilog, Linux, KiCAD
+- Anaconda, PyTorch, Git
 
 ---
