@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Aaditya Gaur 👋
 
-<!--
-**Aaditya2605/Aaditya2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore at Purdue University, studying Computer Engineering
+🔭 Currently learning: STM32, Embedded systems, quantum mechanics, and React  
+🌱 I’m working on: Building cool side projects and leveling up my GitHub  
+💡 Interests: F1, AI, open source, and adventure sports  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aadityagaur) | gaur14@purdue.edu
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- Python, C, MATLAB
+- React, Pandas, Git
+
+---
