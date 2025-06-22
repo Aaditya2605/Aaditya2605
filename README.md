@@ -1,6 +1,6 @@
 # Hi, I’m Aaditya Gaur 👋
 
-🎓 Sophomore at Purdue University, studying Computer Engineering
+🎓 Sophomore at Purdue University, studying Computer Engineering  
 🔭 Currently learning: STM32, Embedded systems and quantum mechanicz  
 🌱 I’m working on: Building cool side projects and leveling up my GitHub  
 💡 Interests: Weightlifting, F1, cricket  
