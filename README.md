@@ -4,4 +4,6 @@ Computer Engineering junior at Purdue University, currently an exchange student 
 
 Building [Huetic](https://huetic.com).
 
+Stack: Claude Code, Codex, and some Red Bull.
+
 Contact: [aaditya@huetic.com](mailto:aaditya@huetic.com)
