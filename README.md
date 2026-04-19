@@ -1,6 +1,7 @@
-# Hi, I’m Aaditya Gaur 👋
+# Aaditya Gaur
 
-🎓 Junior at Purdue University, studying Computer Engineering  
-🌍 Currently an exchange student at Universidad Carlos III de Madrid  
-🌱 I’m building: [huetic.com](https://huetic.com)  
-📫 How to reach me: aaditya@huetic.com
+Computer Engineering junior at Purdue University, currently an exchange student at Universidad Carlos III de Madrid.
+
+Building [Huetic](https://huetic.com).
+
+Contact: [aaditya@huetic.com](mailto:aaditya@huetic.com)
