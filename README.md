@@ -4,6 +4,11 @@
 
 🛠️ Building [Huetic](https://huetic.com).
 
-⚡ Powered by Claude Code, Codex, and some Red Bull.
+⚡ Shipped
+  📱 2 App Store apps
+  🌐 3 websites
+  🏛️ 1 government dashboard
+
+🚀 Founder and builder with a focus on clean design, useful products, and fast execution.
 
 📫 Contact: [aaditya@huetic.com](mailto:aaditya@huetic.com)
