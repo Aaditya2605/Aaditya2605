@@ -4,11 +4,6 @@
 
 🛠️ Building [Huetic](https://huetic.com).
 
-⚡ **Shipped**
-- 📱 2 App Store apps
-- 🌐 3 websites
-- 🏛️ 1 government dashboard
-
 🚀 Founder and builder with a focus on clean design, useful products, and fast execution.
 
 📫 Contact: [aaditya@huetic.com](mailto:aaditya@huetic.com)
