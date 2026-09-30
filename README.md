@@ -1,6 +1,6 @@
 # Aaditya Gaur
 
-🎓 Computer Engineering junior at Purdue University. Exchange student at Universidad Carlos III de Madrid.
+🎓 Computer Engineering senior at Purdue University. Exchange student at Universidad Carlos III de Madrid.
 
 🛠️ Building [Huetic](https://huetic.com).
 
